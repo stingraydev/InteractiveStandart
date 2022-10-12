@@ -1,0 +1,26 @@
+{
+  "name": "InteractiveStandart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stingraydev/InteractiveStandart.git"
+  },
+  "keywords": [],
+  "author": "Artem Lusnikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stingraydev/InteractiveStandart/issues"
+  },
+  "homepage": "https://github.com/stingraydev/InteractiveStandart#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  },
+  "dependencies": {
+    "axios": "^1.1.2"
+  }
+}
